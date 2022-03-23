@@ -3,6 +3,7 @@
 INSTALLATION:
 
 Create new project:
+
 npx expo-cli init food --npm
 
 1. Install React Navigation
